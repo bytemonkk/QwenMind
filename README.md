@@ -1,6 +1,6 @@
 # QwenMind - Less Memory. More Intelligence.
 
-### Efficient Fine-Tuning of Qwen3 for Medical Question Answering using 
+### Efficient Fine-Tuning of Qwen3 for Medical Question Answering using Unsloth.
 
 <p align="center">
   <img src="assets/qwenmind.png" width="100%">
