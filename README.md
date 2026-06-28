@@ -96,3 +96,4 @@ This repository showcases an efficient approach for adapting **Qwen3** to health
 * FastAPI REST API Deployment
 * Hugging Face Spaces Demo
 * GGUF & ONNX Export
+* small brains challenging big brains.
